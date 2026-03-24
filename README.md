@@ -1,2 +1,2 @@
 # tech-tutor
-Projeot TCC 
+Projeto TCC 
